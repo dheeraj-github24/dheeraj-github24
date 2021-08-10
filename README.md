@@ -2,4 +2,4 @@
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning ANDROID 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dpdheeraj2000@gmail.com
+- 📫 How to reach me dheerajvpatil24@gmail.com
