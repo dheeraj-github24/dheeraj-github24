@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dheeraj
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning ANDROID 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JAVA Development
+- 🌱 I’m currently learning SPRINGBOOT 
 - 📫 How to reach me dheerajvpatil24@gmail.com
